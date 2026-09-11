@@ -1,15 +1,13 @@
-# werock
-Official WeRock website - Privacy Policy, Terms, Support and Account Deletion
-https://sites.google.com/view/werock-app
+# WeRock
 
-Privacy Policy →
-https://sites.google.com/view/werock-app/privacy-Policy
+Official WeRock website — Privacy Policy, Terms, Support and Account Deletion.
 
-Delete Account
-https://sites.google.com/view/werock-app/delete-account
+[WeRock Website](https://sites.google.com/view/werock-app)
 
-Terms →
-https://sites.google.com/view/werock-app/werock-terms-of-service
+[Privacy Policy](https://sites.google.com/view/werock-app/privacy-Policy)
 
-Contact / Support →
-https://sites.google.com/view/werock-app/werock-contact-support
+[Delete Account](https://sites.google.com/view/werock-app/delete-account)
+
+[Terms of Service](https://sites.google.com/view/werock-app/werock-terms-of-service)
+
+[Contact / Support](https://sites.google.com/view/werock-app/werock-contact-support)
